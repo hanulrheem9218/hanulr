@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hanulr/static/css/main.e1189588.css",
-    "main.js": "/hanulr/static/js/main.37fe6c93.js",
+    "main.js": "/hanulr/static/js/main.4a6e1a5e.js",
     "static/media/bk.jpg": "/hanulr/static/media/bk.81bd03351608ad878882.jpg",
     "index.html": "/hanulr/index.html",
     "main.e1189588.css.map": "/hanulr/static/css/main.e1189588.css.map",
-    "main.37fe6c93.js.map": "/hanulr/static/js/main.37fe6c93.js.map"
+    "main.4a6e1a5e.js.map": "/hanulr/static/js/main.4a6e1a5e.js.map"
   },
   "entrypoints": [
     "static/css/main.e1189588.css",
-    "static/js/main.37fe6c93.js"
+    "static/js/main.4a6e1a5e.js"
   ]
 }
