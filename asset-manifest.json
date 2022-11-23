@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hanulr/static/css/main.073c9b0a.css",
+    "main.js": "/hanulr/static/js/main.1aac486d.js",
+    "static/js/787.31d54641.chunk.js": "/hanulr/static/js/787.31d54641.chunk.js",
+    "static/media/logo.svg": "/hanulr/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hanulr/index.html",
+    "main.073c9b0a.css.map": "/hanulr/static/css/main.073c9b0a.css.map",
+    "main.1aac486d.js.map": "/hanulr/static/js/main.1aac486d.js.map",
+    "787.31d54641.chunk.js.map": "/hanulr/static/js/787.31d54641.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1aac486d.js"
+  ]
+}
