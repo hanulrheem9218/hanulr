@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hanulr/static/css/main.9aef7a18.css",
-    "main.js": "/hanulr/static/js/main.3be7ff1a.js",
+    "main.css": "/hanulr/static/css/main.b3b3c03d.css",
+    "main.js": "/hanulr/static/js/main.239383d6.js",
     "static/media/background1.jpg": "/hanulr/static/media/background1.4c88ed6186ea1f7e4004.jpg",
     "static/media/drawing.png": "/hanulr/static/media/drawing.5e5e9b7fc212033de6f4.png",
     "static/media/unity-hdrp-desktop3.PNG": "/hanulr/static/media/unity-hdrp-desktop3.fc07376d18eefa0cb248.PNG",
@@ -14,13 +14,15 @@
     "static/media/background3.jpg": "/hanulr/static/media/background3.f2c00512fca805a90d34.jpg",
     "static/media/background2.jpg": "/hanulr/static/media/background2.4eb6cb7f46b39e7c237e.jpg",
     "static/media/me.jpg": "/hanulr/static/media/me.65831e9109e9a33f11f8.jpg",
+    "static/media/unity-urp-mobile1.PNG": "/hanulr/static/media/unity-urp-mobile1.da95ceb5415221954369.PNG",
+    "static/media/unity-urp-mobile2.PNG": "/hanulr/static/media/unity-urp-mobile2.5c1e1ad79a13d564e0ba.PNG",
     "static/media/coding.PNG": "/hanulr/static/media/coding.4e2517fb71ec8d42ae49.PNG",
     "index.html": "/hanulr/index.html",
-    "main.9aef7a18.css.map": "/hanulr/static/css/main.9aef7a18.css.map",
-    "main.3be7ff1a.js.map": "/hanulr/static/js/main.3be7ff1a.js.map"
+    "main.b3b3c03d.css.map": "/hanulr/static/css/main.b3b3c03d.css.map",
+    "main.239383d6.js.map": "/hanulr/static/js/main.239383d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.9aef7a18.css",
-    "static/js/main.3be7ff1a.js"
+    "static/css/main.b3b3c03d.css",
+    "static/js/main.239383d6.js"
   ]
 }
