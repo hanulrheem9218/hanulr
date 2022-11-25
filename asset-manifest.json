@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hanulr/static/css/main.b3b3c03d.css",
-    "main.js": "/hanulr/static/js/main.6dfbe7ec.js",
+    "main.js": "/hanulr/static/js/main.88a2b7a1.js",
     "static/media/bastion6.png": "/hanulr/static/media/bastion6.ade99ad88709ac722f51.png",
     "static/media/bastion4.png": "/hanulr/static/media/bastion4.29f5e0403cb8d0c3d5ff.png",
     "static/media/bastion3.png": "/hanulr/static/media/bastion3.54aaf07d5f42d660a4b3.png",
@@ -28,10 +28,10 @@
     "static/media/unity-urp-mobile3.PNG": "/hanulr/static/media/unity-urp-mobile3.ca74358f4b31893ac371.PNG",
     "index.html": "/hanulr/index.html",
     "main.b3b3c03d.css.map": "/hanulr/static/css/main.b3b3c03d.css.map",
-    "main.6dfbe7ec.js.map": "/hanulr/static/js/main.6dfbe7ec.js.map"
+    "main.88a2b7a1.js.map": "/hanulr/static/js/main.88a2b7a1.js.map"
   },
   "entrypoints": [
     "static/css/main.b3b3c03d.css",
-    "static/js/main.6dfbe7ec.js"
+    "static/js/main.88a2b7a1.js"
   ]
 }
